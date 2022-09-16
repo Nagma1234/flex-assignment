@@ -1,0 +1,109 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgba(128, 128, 128, 0.043);
+ 
+}
+.container{
+    display: flex;
+    height: 98vh;
+    align-items: center; 
+   justify-content: center;
+
+}
+
+.parent{
+    display: flex;
+    height: 450px ;
+    width: 700px;
+    flex-flow: wrap;
+    font-family: 'Karla', sans-serif;
+}
+
+.b1{
+  
+    height: 200px;
+    width: 700px;
+    background-color: white; 
+    border-radius: 15px 15px 0px 0px;  
+    
+}
+
+.b2{
+    
+    height: 250px;
+    width: 350px;
+    background-color: rgb(28, 242, 217);
+    border-radius: 0px 0px 0px 15px;
+    
+}
+.b3{
+   
+    height: 250px;
+    width: 350px; 
+    background-color: rgb(24, 187, 241);
+    border-radius: 0px 0px 15px 0px;
+}
+
+.b11 h3{
+    color: darkcyan;
+   padding: 30px 0px 0px 30px;
+}
+
+.b11 h4{
+    color: rgb(197, 223, 66);
+   padding: 0px 0px 0px 30px;
+   word-spacing: 2px;
+   
+}
+.b11 p{
+    color: black;
+    padding: 0px 0px 0px 30px;
+    font-size: 15px;
+    line-height: 20px;
+    
+    
+}
+.b22 h4{
+    color: white;
+   padding: 5px 0px 0px 30px;
+}
+.b22 h3{
+    display: inline;
+    color: white;
+   padding: 0px 0px 20px 30px;
+}
+.b22 p{
+    display: inline;
+    color: white;
+   padding: 0px 0px 20px 30px;
+   font-size: 15px;
+}
+#b2{
+    display: block;
+    color: white;
+   padding: 0px 0px 20px 30px;
+   font-size: 15px; 
+}
+button{
+    background-color: rgb(197, 223, 66);
+    text-align: center;
+    color: white;
+   margin: 0px 0px 0px 30px;
+   padding: 10px 100px 10px 100px;
+  
+   border-radius: 2px;
+   border-style: none;
+}
+.b33 h4{
+    color: white;
+   padding: 5px 0px 0px 30px;
+}
+.b33 p{
+   text-align: left;
+    color: white;
+   padding: 0px 150px 20px 30px;
+   font-size: 15px;
+   line-height: 30px;
+   
+}
